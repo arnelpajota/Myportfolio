@@ -641,7 +641,7 @@ input:checked + .slider:before {
 }
 
 #darkModeToggle:checked + #darkModeLabel {
-  background-color: #333; /* Change background color when switch is checked */
+  background-color: #333;
   color: #fff;
 }
 #darkModeToggleContainer{
